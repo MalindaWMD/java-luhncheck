@@ -42,6 +42,6 @@ public class LuhnCheck{
     }
 
     public static void main(String[] args) {
-        System.out.println(checkCard("5300721113189374"));;
+        System.out.println(checkCard("CARD_NO"));;
     }    
 }
